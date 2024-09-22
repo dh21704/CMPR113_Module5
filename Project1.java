@@ -114,7 +114,7 @@ public class Project1 extends JFrame{
         );
         
      
-               
+               //
         
         frame.add(daysOnTripLabel);
         frame.add(field);
